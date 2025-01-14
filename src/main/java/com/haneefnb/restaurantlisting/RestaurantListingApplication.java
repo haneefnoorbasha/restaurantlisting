@@ -11,6 +11,8 @@ public class RestaurantListingApplication {
 		//Test111
 		System.out.println("Hello World!");
 		System.out.println("Hello2");
+		//Vaidation
+		System.out.println("---Validation configured---");
 	}
 
 }
