@@ -1,8 +1,8 @@
-package com.codeddecode.restaurantlisting.controller;
+package com.haneefnb.restaurantlisting.controller;
 
 
-import com.codeddecode.restaurantlisting.dto.RestaurantDTO;
-import com.codeddecode.restaurantlisting.service.RestaurantService;
+import com.haneefnb.restaurantlisting.dto.RestaurantDTO;
+import com.haneefnb.restaurantlisting.service.RestaurantService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;

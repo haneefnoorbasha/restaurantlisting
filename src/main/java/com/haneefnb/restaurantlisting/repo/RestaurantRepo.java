@@ -1,6 +1,6 @@
-package com.codeddecode.restaurantlisting.repo;
+package com.haneefnb.restaurantlisting.repo;
 
-import com.codeddecode.restaurantlisting.entity.Restaurant;
+import com.haneefnb.restaurantlisting.entity.Restaurant;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.codeddecode.restaurantlisting.entity;
+package com.haneefnb.restaurantlisting.entity;
 
 
 import lombok.AllArgsConstructor;

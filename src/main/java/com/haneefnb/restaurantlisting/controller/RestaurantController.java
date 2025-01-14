@@ -1,8 +1,8 @@
-package com.codeddecode.restaurantlisting.controller;
+package com.haneefnb.restaurantlisting.controller;
 
 
-import com.codeddecode.restaurantlisting.dto.RestaurantDTO;
-import com.codeddecode.restaurantlisting.service.RestaurantService;
+import com.haneefnb.restaurantlisting.dto.RestaurantDTO;
+import com.haneefnb.restaurantlisting.service.RestaurantService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

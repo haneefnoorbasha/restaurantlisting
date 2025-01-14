@@ -1,4 +1,4 @@
-package com.codeddecode.restaurantlisting;
+package com.haneefnb.restaurantlisting;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

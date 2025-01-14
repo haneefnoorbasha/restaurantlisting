@@ -1,4 +1,4 @@
-package com.codeddecode.restaurantlisting.dto;
+package com.haneefnb.restaurantlisting.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

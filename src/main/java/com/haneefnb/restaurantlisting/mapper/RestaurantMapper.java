@@ -1,8 +1,8 @@
-package com.codeddecode.restaurantlisting.mapper;
+package com.haneefnb.restaurantlisting.mapper;
 
 
-import com.codeddecode.restaurantlisting.dto.RestaurantDTO;
-import com.codeddecode.restaurantlisting.entity.Restaurant;
+import com.haneefnb.restaurantlisting.dto.RestaurantDTO;
+import com.haneefnb.restaurantlisting.entity.Restaurant;
 import org.mapstruct.Mapper;
 import org.mapstruct.factory.Mappers;
 
