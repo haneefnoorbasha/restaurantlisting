@@ -10,6 +10,7 @@ public class RestaurantListingApplication {
 		SpringApplication.run(RestaurantListingApplication.class, args);
 		//Test111
 		System.out.println("Hello World!");
+		System.out.println("Hello2");
 	}
 
 }
