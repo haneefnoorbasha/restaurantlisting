@@ -10,6 +10,7 @@ public class RestaurantListingApplication {
 		SpringApplication.run(RestaurantListingApplication.class, args);
 		System.out.println("Change1 in Remote");
 		System.out.println("Change2 in Remote");
+		System.out.println("Change3 in Remote");
 	}
 
 }
