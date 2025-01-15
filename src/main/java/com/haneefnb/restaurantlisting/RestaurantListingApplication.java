@@ -8,12 +8,6 @@ public class RestaurantListingApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestaurantListingApplication.class, args);
-		//Test111
-		System.out.println("Hello World!");
-		System.out.println("Hello2");
-		//Vaidation
-		System.out.println("---Validation configured 1111---");
-		System.out.println("--Buggy Code1--");
 	}
 
 }
